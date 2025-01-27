@@ -1,0 +1,3 @@
+C:/Users/Brandon/source/repos/RayTracer/build/CMakeFiles/RayTracer.dir
+C:/Users/Brandon/source/repos/RayTracer/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Brandon/source/repos/RayTracer/build/CMakeFiles/ZERO_CHECK.dir
